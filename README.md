@@ -23,7 +23,6 @@ LLMGuard is an AI-powered toolkit for detecting prompt injection and jailbreak a
    ```bash
    streamlit run dashboard/streamlit_app.py
    ```
-```
 
 ## Next Steps
 - Add more patterns
